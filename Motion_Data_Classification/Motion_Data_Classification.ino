@@ -1,3 +1,9 @@
+/*
+Learn Edge AI on UNIHIKER K10
+Edge Impulse Beginner Tutorial
+Mukesh Sankhla | makerbrains.com
+*/
+
 #include <Motion_Data_Classification_inferencing.h>   // Edge Impulse library
 #include "unihiker_k10.h"
 
