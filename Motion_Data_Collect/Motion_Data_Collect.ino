@@ -1,3 +1,9 @@
+/*
+Learn Edge AI on UNIHIKER K10
+Edge Impulse Beginner Tutorial
+Mukesh Sankhla | makerbrains.com
+*/
+
 #include "unihiker_k10.h"
 
 UNIHIKER_K10 k10;
