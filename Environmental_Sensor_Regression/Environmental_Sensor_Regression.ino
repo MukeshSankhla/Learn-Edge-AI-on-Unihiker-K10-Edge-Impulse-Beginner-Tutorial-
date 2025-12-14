@@ -1,3 +1,9 @@
+/*
+Learn Edge AI on UNIHIKER K10
+Edge Impulse Beginner Tutorial
+Mukesh Sankhla | makerbrains.com
+*/
+
 #include "unihiker_k10.h"
 #include <Environmental_Sensor_Regression_inferencing.h>  // Edge Impulse model
 
