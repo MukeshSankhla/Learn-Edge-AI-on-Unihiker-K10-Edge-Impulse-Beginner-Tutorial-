@@ -1,4 +1,9 @@
 /*
+Learn Edge AI on UNIHIKER K10
+Edge Impulse Beginner Tutorial
+Mukesh Sankhla | makerbrains.com
+*/
+/*
  * ESP32-S3 + GC2145 Camera - Edge Impulse Image Capture
  * With ILI9341 Display and XL9535 GPIO Expander
  */
